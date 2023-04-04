@@ -9,3 +9,5 @@ The license (CC-NC-ND) makes it impossible for you to distribute any software, a
 
 # 👾 Constantly Improving
 ESCP (Export Settings and Compatibility Parameters) is constantly improving, constantly updating, receiving new features, fixes and changes.
+
+---> ALL RIGHTS RESERVED, SWANKYNOOB INC. | ESTABLISHED AND MANAGED BY Wesley YAN Soares Brehmer
